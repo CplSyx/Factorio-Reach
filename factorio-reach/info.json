@@ -1,0 +1,11 @@
+{
+  "name": "factorio-reach",
+  "version": "0.1",
+  "title": "Factorio Reach",
+  "author": "Sam Hissaund",
+  "contact": "cplsyx@gmail.com",
+  "homepage": "http://github.com/cplsyx",
+  "description": "Allows player to build and access any item on the visible play area.",
+  "factorio_version":"0.13",
+  "dependencies": ["base >= 0.13.0"]
+}
