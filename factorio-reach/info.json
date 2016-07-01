@@ -5,7 +5,7 @@
   "author": "Sam Hissaund",
   "contact": "cplsyx@gmail.com",
   "homepage": "http://github.com/cplsyx",
-  "description": "Allows player to build and access any item on the visible play area.",
+  "description": "Allows player to build and access any item and ore on the visible play area.",
   "factorio_version":"0.13",
   "dependencies": ["base >= 0.13.0"]
 }
