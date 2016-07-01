@@ -5,7 +5,7 @@
   "author": "Sam Hissaund",
   "contact": "cplsyx@gmail.com",
   "homepage": "http://github.com/cplsyx",
-  "description": "Provides the player with a longer reach for complete access to items, ores and trees across the entire visible play area.",
+  "description": "Provides the player with a long reach for complete access to items, ores and trees across the entire visible play area.",
   "factorio_version":"0.13",
   "dependencies": ["base >= 0.13.0"]
 }
