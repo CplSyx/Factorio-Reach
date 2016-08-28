@@ -6,6 +6,6 @@
   "contact": "cplsyx@gmail.com",
   "homepage": "http://github.com/cplsyx",
   "description": "Provides the player with a long reach for complete access to items, ores and trees across the entire visible play area.",
-  "factorio_version":"0.13",
-  "dependencies": ["base >= 0.13.0"]
+  "factorio_version":"0.14",
+  "dependencies": ["base >= 0.14.0"]
 }
