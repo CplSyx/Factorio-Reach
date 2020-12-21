@@ -1,11 +1,11 @@
 {
   "name": "factorio-reach",
-  "version": "2.6.1",
+  "version": "2.7.0",
   "title": "Factorio Reach",
   "author": "Sam Hissaund",
   "contact": "cplsyx@gmail.com",
   "homepage": "https://github.com/CplSyx/Factorio-Reach",
   "description": "Provides the player with a long reach for complete access to items, ores and trees across the entire visible play area.",
-  "factorio_version":"0.18",
-  "dependencies": ["base >= 0.16.0"]
+  "factorio_version":"1.1",
+  "dependencies": ["base >= 1.1"]
 }
