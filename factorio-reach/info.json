@@ -6,6 +6,6 @@
   "contact": "cplsyx@gmail.com",
   "homepage": "https://github.com/CplSyx/Factorio-Reach",
   "description": "Provides the player with a long reach for complete access to items, ores and trees across the entire visible play area.",
-  "factorio_version":"2.0",
-  "dependencies": ["base >= 2.0.0"]
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 1.1"]
 }
